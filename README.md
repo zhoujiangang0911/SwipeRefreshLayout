@@ -6,6 +6,7 @@ It only server for ListView now.
 
 ## Demo ##
 [Download apk](/demo.apk)
+
 ![Gif](/demo.gif)
 
 ## Use ##
